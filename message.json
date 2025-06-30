@@ -1,6 +1,9 @@
 {
-  "id": "1519630490",
-  "title": "test",
-  "message": "New Update avialiable",
-  "is_active": true
+  "id": "1719830500",
+  "message": "A new update (v1.2) is available with exciting new features. Click below to see what's new!",
+  "is_active": true,
+  "link": {
+    "text": "View Update Notes",
+    "url": "https://github.com/YOUR_USERNAME/YOUR_REPO_NAME/releases/tag/v1.2"
+  }
 }
