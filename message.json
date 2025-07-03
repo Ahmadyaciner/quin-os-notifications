@@ -1,9 +1,9 @@
 {
-  "id": "18108546564",
-  "message": "A new update 'Quin 1,2v' is available with exciting new features. Click below to see what's new!",
+  "id": 1,
   "is_active": true,
+  "message": "Welcome to QUIN OS v1.1! This version includes a redesigned tracker and live task filtering.",
   "link": {
-    "text": "View Update Notes",
-    "url": "https://github.com/YOUR_USERNAME/YOUR_REPO_NAME/releases/tag/v1.2"
+    "text": "View Changelog",
+    "url": "https://github.com/Ahmadyaciner/quin-os/releases/latest"
   }
 }
